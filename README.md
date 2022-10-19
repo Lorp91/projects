@@ -1,2 +1,3 @@
 # projects
-small projects that i have done
+
+collection of small to medium projects that i have done, do or will do.
